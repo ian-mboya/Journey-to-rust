@@ -1,0 +1,1 @@
+/home/spectre/Desktop/rust-projects/hello_world/degree_farenheit_converter/target/debug/degree_farenheit_converter: /home/spectre/Desktop/rust-projects/hello_world/degree_farenheit_converter/src/main.rs
